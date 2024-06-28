@@ -1,0 +1,1 @@
+Developing a flappy bird using python. Simply run the file, with opr without visualization module and play the game using AI. Any player reaching a scoore of 50 is considered a winner and number of generations and fitness configurations are compared (using plots too!) to evaluate the crucial differences betwen 2 players! Enjoy!
